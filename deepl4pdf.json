@@ -26,7 +26,7 @@
               {"key_code": "l", "modifiers": ["command"]},
               {"key_code": "v", "modifiers": ["command"]},
               {"key_code": "a", "modifiers": ["command"]},
-              {"key_code": "c", "modifiers": ["command"]}
+              {"key_code": "c", "key_code": "c", "modifiers": ["command"]}
             ]
           }
         ]
